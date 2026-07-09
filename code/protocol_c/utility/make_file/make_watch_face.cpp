@@ -1,4 +1,4 @@
-#include "mkWatchFace.h"
+#include "make_watch_face.h"
 #include "file_tool.h"
 #include "bitmap_tool.h"
 #include "fastlz_util.h"
